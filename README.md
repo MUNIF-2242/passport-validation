@@ -1,4 +1,4 @@
-# Passport Validation App
+# Passport Validation In React Native using Expo and AWS Textract
 
 This React Native application validates passports using AWS Textract. Users can upload passport images, and the app will extract and validate MRZ (Machine Readable Zone) codes from the images. The app utilizes Expo for easy image picking and AWS services (S3 and Textract) for storing and analyzing the images.
 
